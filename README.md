@@ -1,3 +1,4 @@
+![1](https://github.com/abhisheksol/React-Native-Weather-App/assets/118334375/76d88baf-4a76-43d8-80bc-cf451b7905ea)
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
